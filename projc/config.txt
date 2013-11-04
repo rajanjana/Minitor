@@ -1,0 +1,5 @@
+#This is a comment line, should be ignored
+stage 8
+num_routers 6
+minitor_hops 1
+die_after 5
